@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleYouTubeVideo", "MultipleYouTubeVideo\MultipleYouTubeVideo.csproj", "{5C66796B-0DF8-4178-8592-B4852EB1258E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeEmbeddedPlayer", "YouTubeEmbeddedPlayer\YouTubeEmbeddedPlayer.csproj", "{C30915D1-BD4E-46EE-BD06-8CD3EF7C271D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E574D35-1FDD-449D-B280-0C4BC40AB6D1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Icono.ico = ..\..\..\Downloads\Icono.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C66796B-0DF8-4178-8592-B4852EB1258E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C66796B-0DF8-4178-8592-B4852EB1258E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C66796B-0DF8-4178-8592-B4852EB1258E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C66796B-0DF8-4178-8592-B4852EB1258E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30915D1-BD4E-46EE-BD06-8CD3EF7C271D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30915D1-BD4E-46EE-BD06-8CD3EF7C271D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30915D1-BD4E-46EE-BD06-8CD3EF7C271D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30915D1-BD4E-46EE-BD06-8CD3EF7C271D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E5F79B-D3A4-4AB9-9325-0C1D65F61E21}
+	EndGlobalSection
+EndGlobal

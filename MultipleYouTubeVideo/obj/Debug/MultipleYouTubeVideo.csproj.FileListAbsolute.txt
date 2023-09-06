@@ -1,0 +1,13 @@
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.Properties.Resources.resources
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.csproj.GenerateResource.cache
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\bin\Debug\MultipleYouTubeVideo.exe.config
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\bin\Debug\MultipleYouTubeVideo.exe
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\bin\Debug\MultipleYouTubeVideo.pdb
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.exe
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.pdb
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.csproj.CopyComplete
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\bin\Debug\YouTubeEmbeddedPlayer.dll
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\bin\Debug\YouTubeEmbeddedPlayer.pdb
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\MultipleYouTubeVideo\obj\Debug\MultipleYouTubeVideo.FormMultiplePlayer.resources

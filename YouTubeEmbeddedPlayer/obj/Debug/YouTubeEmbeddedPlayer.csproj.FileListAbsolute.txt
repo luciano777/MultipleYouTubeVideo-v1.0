@@ -1,0 +1,6 @@
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\YouTubeEmbeddedPlayer\bin\Debug\YouTubeEmbeddedPlayer.dll
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\YouTubeEmbeddedPlayer\bin\Debug\YouTubeEmbeddedPlayer.pdb
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\YouTubeEmbeddedPlayer\obj\Debug\YouTubeEmbeddedPlayer.csproj.AssemblyReference.cache
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\YouTubeEmbeddedPlayer\obj\Debug\YouTubeEmbeddedPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\YouTubeEmbeddedPlayer\obj\Debug\YouTubeEmbeddedPlayer.dll
+C:\Users\Notebook\source\repos\MultipleYouTubeVideo\YouTubeEmbeddedPlayer\obj\Debug\YouTubeEmbeddedPlayer.pdb
